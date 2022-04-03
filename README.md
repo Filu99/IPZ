@@ -1,2 +1,2 @@
 # IPZ
-Projekt grupowy głowicy do malowania blach trapezowych.
+Projekt grupowy głowicy do malowania blach trapezowych. Założeniem projektu jest stworzenie mechanizmu pozwalającego na malowanie blach trapezowych dzięki głowicy, która dostosowuje się do malowanego podłoża poprzez zmianę kąta nachylenia do malowanej powierzchni. W koncepcji zakłada się zastosowanie laserowych czujników odległości, silnika krokowego z enkoderem, oraz układu ESP8266, który staniowi serce całego układu i pozwala na podłączenie głowicy do sieci.
